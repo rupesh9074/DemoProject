@@ -6,7 +6,7 @@ public class TestNG3 {
 	
 	@Test
 	public void a() {
-		System.out.println("Hello");
+		System.out.println("Hello"); 
 	}
 
 }
